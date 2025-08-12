@@ -14,12 +14,12 @@ To compile and run the code, you'll need a C compiler (like GCC, VSCode Extensio
 
 #  1.  Compile
 Navigate to the directory containing the source files and use the following command to compile any of the '.c' files, for example, 'A.c':
-  >  gcc A.c -o A
+  >  gcc A.c -o A <
 This command compiles the 'A.c' file and creates an executabe file named 'A'.
 
 #  2.  Run
 After compiling, you can run the executable with the following command:
-  >  ./A
+  >  ./A <
 This will execute the program and display the sorted array in the console
 
 #  Files
