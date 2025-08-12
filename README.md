@@ -13,7 +13,7 @@ The algorithm repeats the process of selecting the minimum element from the unso
 To compile and run the code, you'll need a C compiler (like GCC) installed on your system.
 
 # 1. Compile
-Navigate to the directory containing the source files and use the following command to compile any of the > .c > files, for example, > A.c:
+Navigate to the directory containing the source files and use the following command to compile any of the '.c' files, for example, 'A.c':
 
 > gcc A.c -o A
 >
