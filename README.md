@@ -13,7 +13,7 @@ The algorithm repeats the process of selecting the minimum element from the unso
 To compile and run the code, you'll need a C compiler (like GCC) installed on your system.
 
 # 1. Compile
-Navigate to the directory containing the source files and use the following command to compile any of the > .c files, for example, > A.c:
+Navigate to the directory containing the source files and use the following command to compile any of the > .c > files, for example, > A.c:
 
 > gcc A.c -o A
 >
@@ -22,8 +22,8 @@ This command compiles the A.c file and creates an executable file named A.
 # 2. Run
 After compiling, you can run the executable with the following command:
 
-./A
-
+> ./A
+>
 This will execute the program and display the sorted array in the console.
 
 # Files
